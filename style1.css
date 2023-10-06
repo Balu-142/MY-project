@@ -1,0 +1,241 @@
+.row{
+    justify-content: space-between;
+  }
+  
+  #nav{
+    position: sticky;
+    top: 0px;
+  }
+  
+  .nav-items{
+    height: 90px;
+    width: 1400px;
+    padding-top: 15px;
+    background-color:whitesmoke;
+  }
+  
+  .f1{
+    padding-left: 80px;
+    padding-right: 100px;
+  }
+  .nav-list{
+    padding-right: 50px;
+    
+  }
+
+  .f2{
+    padding-right:6px;
+  }
+
+  .bg{
+    background-image: url(https://s3.rdbuz.com/web/images/homeV2/HomeBannerImg.svg);
+    height: 500px;
+  }
+
+  .content{
+    font-size: 40px;
+    font-weight: 700;
+    padding-left: 290px;
+    padding-top: 50px;
+    margin-bottom: 30px;
+  }
+
+  .eee{
+    background-color: white;
+    margin-left: 170px;
+    height: 100px;
+    border-radius: 18px;
+    margin-right:170px;
+
+  }
+
+  .cab2{
+    background-color: red;
+    padding-right: 47px;
+    padding-left: 30px;
+    padding-top: 35px;
+    padding-bottom: 45px;
+    border-radius: 18px;
+    margin-left: 40px;
+    border-left: 20px;
+    color: white;
+    font-weight: 700;
+  }
+
+  .cab{
+    margin-top: 70px;
+    background-color: red;
+    height: 60px;
+    border-radius: 18px;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    padding-left: 20px;
+    padding-top: 10px;
+    width: 280px;
+    margin-left: 40px;
+  }
+
+  .img{
+    margin-left: 40px;
+    margin-bottom: 30px;
+  }
+
+  .raa{
+    background-image: url(https://s3.rdbuz.com/web/images/homeV2/AboutUs/aboutUsImg.svg);
+    width: 580px;
+    margin-top: 60px;
+    margin-right: 60px;
+    padding-bottom: 60px;
+    padding-left: 0px;
+  }
+  
+  .post{
+    background-image: url(https://s1.rdbuz.com/web/images/homeV2/appinstall/appInstallbg.svg);
+    margin-left: 90px;
+    margin-right: 60px;
+    height: 420px;
+    margin-top: 70px;
+  }
+
+  .xxx{
+    background-color: white;
+    margin-left: 60px;
+    width: 340px;
+    height: 280px;
+    border-radius: 18px;
+    margin-top: 30px;
+    padding-left: 40px;
+    padding-top: 50px;
+  }
+
+  .xxx2{
+    padding-top: 20px;
+  }
+
+  #style{
+    background-color: rgb(66, 10, 119);
+    width: 350px;
+    height: 220p;
+    padding-left: 50px;
+    padding-top: 30px;
+    border-radius: 18px;
+    margin-left: 10px;
+  }
+
+  .yyy{
+    font-size: 25px;
+    font-weight: 800;
+    color: white;
+
+  }
+
+  .text{
+    margin-left: 110px;
+    font-size: 40px;
+    margin-top:40px ;
+    margin-bottom: 25px;
+  }
+
+  .button{
+    background-color: white;
+    border-radius: 18px;
+    width: 120px;
+    height: 45px;
+    margin-left: 750px;
+  }
+
+  .rtc{
+    margin-left: 50px;
+    padding-left: 0px;
+  }
+
+  .rtc-1{
+    padding-left: 90px;
+  }
+
+  .button2{
+    background-color: white;
+    border-radius: 18px;
+    width: 120px;
+    height: 45px;
+    margin-right: 100px;
+    margin-bottom: 30px;
+  }
+
+  .rrr{
+    justify-content: space-between;
+    padding-bottom: 30px;
+  }
+
+  .good{
+    padding-left: 50px;
+    margin-left: 20px;
+    margin-bottom: 60px;
+    font-weight: 500;
+    padding-bottom: 60px;
+  }
+
+  .balu{
+    background-color:whitesmoke;
+    width: 1100px;
+    height: 80px;
+    margin-left: 100px;
+    margin-top: 20px;
+    border-radius: 18px;
+    font-size: 20px;
+    font-weight: 700;
+  }
+
+  .position{
+    margin-top: 25px;
+    padding-left: 40px;
+    color: #000;
+  }
+
+  .position2{
+    color: #000;
+    margin-right: 50px;
+    margin-top: 10px;
+    font-size: 38px;
+  }
+
+  .button3{
+    background-color: white;
+    border-radius: 18px;
+    width: 40px;
+    height: 65px;
+    margin-left: 1180px;
+    margin-bottom: 30px;
+    margin-top: 25px;
+  }
+
+
+  .bgg{
+    background-color: whitesmoke;
+    padding-top: 60px;
+    padding-bottom: 60px;
+  }
+
+  .td{
+    font-size: 20px;
+    font-weight: 800;
+    margin-left: 40px;
+    padding-left: 80px;
+    padding-bottom: 30px;
+
+  }
+
+  .book{
+    padding-left: 50px;
+    margin-left: 80px;
+  }
+
+  .about{
+    font-size: 20px;
+    font-weight: 800;
+    margin-left: 20px;
+    padding-left: 70px;
+  }
+
+
